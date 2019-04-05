@@ -19,7 +19,7 @@
     export default {
         computed: {
             message() {
-                return "This is working I think.";
+                return "This might be working.";
             }
         }
     };
